@@ -1,8 +1,12 @@
 My First commit  - Rice
 <<<<<<< HEAD
+<<<<<<< HEAD
 My Second commit -  Pizaa
 My Thrid -- Burger
 My fourth - Pepsi
+=======
+My Second commit -  Pizaa
+>>>>>>> parent of 9340dd1... Burger
 =======
 My Second commit -  Pizaa
 >>>>>>> parent of 9340dd1... Burger
